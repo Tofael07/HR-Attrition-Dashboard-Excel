@@ -108,7 +108,8 @@ This empowers HR users to drill down into specific segments for more granular in
 - Explore gender-specific trends to make the workforce more inclusive and balanced.
 
 ## Dashboard
-![HR Attrition Dashboard](https://github.com/user-attachments/assets/f5ca1655-1700-456f-aad4-93e7d11cda2a)
-![Attrition Sales](https://github.com/user-attachments/assets/d987e391-154e-41ea-a294-f175ea0cb719)
+![HR Attrition Dashboard](https://github.com/user-attachments/assets/b8274f74-fc8c-48b4-a160-eaefdee62e0f)
+![Attrition Sales](https://github.com/user-attachments/assets/1a9e1f5f-6047-4475-88b5-a9590ec29a1e)
+
 
 
